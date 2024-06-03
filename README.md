@@ -1,5 +1,6 @@
 Samyradesousa/README.md
-Boas vindas ao meu perfil 💙💙
+
+**Boas vindas ao meu perfil 💙💙**
 Meu nome é Samyra De Sousa Andrade 
 
 Estou estudando na Alura
